@@ -1,7 +1,7 @@
 .game-board {
     width: 100%;
     height: 685px;
-    border-bottom: 50px solid green;
+    border-bottom: 10vh solid green;
     margin: 0 auto;
     position: relative;
     overflow: hidden;
